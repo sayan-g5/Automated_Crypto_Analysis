@@ -1,2 +1,2 @@
 # Automated_Crypto_Analysis
-Analysis of Crypto data obtained using coinmarketcap API and visualized
+Analysis of Crypto Currency data obtained using coinmarketcap API and visualized 
